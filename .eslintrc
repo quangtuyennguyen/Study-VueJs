@@ -1,0 +1,11 @@
+{
+    "root": true,
+    "extends": [
+        "plugin:vue/essential",
+        "plugin:prettier/recommended",
+        "eslint:recommended"
+    ],
+    "rules": {
+        "vue/no-unused-components": 0
+    }
+}
